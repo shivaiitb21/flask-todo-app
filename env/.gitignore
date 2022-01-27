@@ -1,0 +1,2 @@
+# created by virtualenv automatically
+web: gunicorn app:app
